@@ -6,7 +6,7 @@
 
 <div align="center">
 
-#### </sub>[RENTRY](https://rentry.co/starpkm)⠀⠀⠀⠀⠀[**新BOOK**](https://starpkmn.atabook.org/)⠀⠀⠀⠀⠀[**STRAWPAGE**](https://starpkmmn.straw.page/home1)</sub>
+#### </sub>[RENTRY](https://rentry.co/starpkm)⠀⠀⠀⠀⠀[**新BOOK**](https://starpkmn.atabook.org/)⠀⠀⠀⠀⠀[**STRAWPAGE**](https://starpkmmn.straw.page/home)</sub>
 ![](https://komarev.com/ghpvc/?username=starpkmn&color=1562a6&label=★&style=plastic&base=6924) 
 <div align="center">
 
